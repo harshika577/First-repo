@@ -9,7 +9,7 @@ _'README.Ma'_you are reading this now
 ## Gaol 
 _[x] GITHUB account create cheyyadam
 _[x] first rapo petti code commit cheyyadam 
-_[ ] python inka narchukonih project cheyyadham
+_[x] python inka narchukonih project cheyyadham
 _[ ] open source ki contribute cheyyadam
 ## connect with mee 
 GITHUB:[@harshika577][http://Github.comllharshika]
